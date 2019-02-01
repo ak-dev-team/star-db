@@ -1,3 +1,3 @@
-import App from './app';
+import PersonDetails from "./person-details";
 
-export default App;
+export default PersonDetails;

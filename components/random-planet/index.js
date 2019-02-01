@@ -1,3 +1,3 @@
-import App from './app';
+import RandomPlanet from './random-planet';
 
-export default App;
+export default RandomPlanet;
